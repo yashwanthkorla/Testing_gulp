@@ -1,0 +1,1 @@
+{"version":3,"sources":["main.js"],"names":["a","console","log","b"],"mappings":"AAAA,SAASA,IACLC,QAAQC,IAAI,oBAGhB,SAASC,IACLF,QAAQC,IAAI","file":"../Testing_Gulp/main.js","sourcesContent":["function a(){\r\n    console.log(\"hey there i am a\");\r\n}\r\n\r\nfunction b(){\r\n    console.log(\"Hey there i am b\");\r\n}"]}
